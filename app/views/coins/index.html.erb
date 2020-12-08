@@ -1,7 +1,7 @@
 <p class="text-success" id="notice"><%= notice %></p>
 
 <h1>
-  <%= Coin.model_name.human(count: @coins.count) %>
+  <%= @coins.model_name.human(count: @coins.count) %>
 </h1>
 
 <table class="table table-striped">
