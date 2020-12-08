@@ -2,6 +2,7 @@
   "name": "crypo_wallet",
   "private": true,
   "dependencies": {
+    "@rails/webpacker": "5.2.1",
     "bootstrap": "^4.5.3",
     "jquery": "^3.5.1",
     "notify-js-legacy": "^0.4.1",
@@ -11,5 +12,8 @@
   "main": "index.js",
   "repository": "https://github.com/Rodrigo-Barrettoo/crypo_wallet.git",
   "author": "Rodrigo-Barrettoo <rodrigonarrettoo@outlook.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "webpack-dev-server": "^3.11.0"
+  }
 }
