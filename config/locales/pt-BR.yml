@@ -1,0 +1,16 @@
+pt-BR:
+  welcome: Seja Bem Vindo!
+  welcome_msg: Este é o Crypo Wallet, uma app para você cadastrar e acompanhar as suas criptomoedas.
+  menu_msg: Selecione uma das opções abaixo.
+  confirm_msg: Tem certeza?
+  editing_coin: Editar Moeda
+  editing_mining_type: Editar Tipo de mineração
+  erro_coin: Erro impediu esta moeda de ser salva
+  erro_mining_type: Erro impediu este tipo de mineração de ser salva
+  link:
+    edit: Editar
+    show: Mostar
+    delete: Apagar
+    back: Voltar
+    new_coin: Nova Moeda
+    new_mining_type: Novo Tipo de Mineração

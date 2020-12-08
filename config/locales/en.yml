@@ -30,4 +30,18 @@
 # available at http://guides.rubyonrails.org/i18n.html.
 
 en:
-  hello: "Hello world"
+  welcome: Welcome!
+  welcome_msg: This is Crypo Wallet, an app for you to register and track how your.
+  menu_msg: Select one of the options below.
+  confirm_msg: Are you sure?
+  editing_coin: Editing Coin
+  editing_mining_type: Editing Mining Type
+  erro_coin: Error prohibited this coin from being saved
+  erro_mining_type: Error prohibited this mining type from being saved
+  link:
+    edit: Edit
+    show: Show
+    delete: Delete
+    back: Back
+    new_coin: New Coin
+    new_mining_type: New Mining Type
